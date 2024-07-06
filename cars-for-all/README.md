@@ -12,7 +12,7 @@ The SQL scripts to create the database used in this course can be found at the o
 
 ## ER Diagram
 
-I've created an ER diagram to visualize the database structure, which can be found in this repository under `database.mermaid`. This diagram helps in understanding the relationships between the tables used in the SQL exercises.
+I've created an ER diagram to visualize the database structure, which can be found in this repository under [database.mermaid](database.mermaid). This diagram helps in understanding the relationships between the tables used in the SQL exercises.
 
 ## How to Use
 
